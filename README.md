@@ -7,7 +7,7 @@
   <br />
   <br />
 
-  <samp>Currently Studying @ Epitech in 4th year</samp>
+  <samp>Currently doing a Master's degree @ Epitech Brussels | 4th year</samp>
 
   <br />
   <br />
