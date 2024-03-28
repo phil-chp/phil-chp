@@ -19,6 +19,11 @@
   </tr>
 </table>
 
+<div align="center">
+  <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/phil-chp"  width="1px" height="1px"/>  
+</div>
+
   <br />
   <h2 />
 </div>
