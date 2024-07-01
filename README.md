@@ -7,7 +7,7 @@
   <br />
   <br />
 
-  <samp>Currently doing a Master's degree @ Epitech Brussels | 4th year</samp>
+  <samp>Currently finishing my Master's degree @ Epitech | Majoring in Cybersecurity</samp>
 
   <br />
   <br />
