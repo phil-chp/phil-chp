@@ -7,7 +7,8 @@
   <br />
   <br />
 
-  <samp>Currently finishing my Master's degree @ Epitech | Majoring in Cybersecurity</samp>
+  <samp>Malware Analyst | Researcher @ Eurecom</samp>
+  <samp>Finishing my Master's degree @ Epitech | Majoring in Cybersecurity</samp>
 
   <br />
   <br />
