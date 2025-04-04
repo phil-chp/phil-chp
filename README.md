@@ -8,6 +8,7 @@
   <br />
 
   <samp>Malware Analyst | Researcher @ Eurecom</samp>
+  </br>
   <samp>Finishing my Master's degree @ Epitech | Majoring in Cybersecurity</samp>
 
   <br />
