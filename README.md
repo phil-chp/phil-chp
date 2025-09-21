@@ -7,9 +7,9 @@
   <br />
   <br />
 
-  <samp>Malware Analyst | Researcher @ Eurecom</samp>
+  <samp>Cybersecurity Enthusiast | CPTS Candidate</samp>
   </br>
-  <samp>Finishing my Master's degree @ Epitech | Majoring in Cybersecurity</samp>
+  <samp>2025 IT Master's graduate | Looking for work (Offensive sec, Defensive sec, Low-level programming, DevSecOps)</samp>
 
   <br />
   <br />
@@ -20,12 +20,6 @@
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=phil-chp&count_private=true&include_all_commits=true&hide=stars&hide_title=true&bg_color=00000000&hide_border=true&text_color=8c8c8cFF&layout=compact" />
   </tr>
 </table>
-
-<div align="center">
-  <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/phil-chp"  width="1px" height="1px"/>
-</div>
-
   <br />
   <h2 />
 </div>
