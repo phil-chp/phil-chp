@@ -7,9 +7,9 @@
   <br />
   <br />
 
-  <samp>Cybersecurity Enthusiast | CPTS Candidate</samp>
+  <samp>Offensive Security Engineer | CPTS Candidate</samp>
   </br>
-  <samp>2025 IT Master's graduate | Looking for work (Offensive sec, Defensive sec, Low-level programming, DevSecOps)</samp>
+  <samp>Open for work: Offensive Security in Europe</samp>
 
   <br />
   <br />
