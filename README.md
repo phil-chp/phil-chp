@@ -7,9 +7,9 @@
   <br />
   <br />
 
-  <samp><b>Offensive Security Engineer | CPTS Candidate</b></samp>
+  <samp><b>Offensive Security | Pentest | CPTS</b></samp>
   </br>
-  <samp>Open for work: Offensive Security in Europe</samp>
+  <samp>Open for work: Offsec / InfraSec / AppSec in Europe</samp>
 
   <br />
 
